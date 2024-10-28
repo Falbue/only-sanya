@@ -114,11 +114,11 @@ section{
 /* Адаптивные стили для смартфонов */
 @media (max-width: 768px) {
     table {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     th, td {
-        padding: 8px;
+        padding: 6px;
     }
 
     h1{font-size: 32px}
